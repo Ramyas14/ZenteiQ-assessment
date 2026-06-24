@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Screenshot 2026-06-24 165158" src="https://github.com/user-attachments/assets/cd0d3a3f-874f-41af-ab9c-aa02e50ac6b9" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-24 165006" src="https://github.com/user-attachments/assets/add11d2a-8678-4e6d-8e1d-8e3fde6447d8" />
 # Fixes Summary
 
 Name:
